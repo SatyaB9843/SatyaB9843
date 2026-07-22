@@ -34,6 +34,6 @@ open_to_work: true
 
 ### 📫 Reach me
 
-- Portfolio: https://SatyaB9843.github.io/portfolio/
+- Portfolio: https://satyab9843.github.io/Portfolio/
 - LinkedIn: https://www.linkedin.com/in/satya-v88/
 - Email: satya.b.9843@gmail.com
