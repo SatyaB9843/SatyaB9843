@@ -34,8 +34,6 @@ open_to_work: true
 
 ### 📫 Reach me
 
-- Portfolio: https://YOUR-USERNAME.github.io/portfolio/
+- Portfolio: https://SatyaB9843.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/satya-v88/
-- Email: your.email@example.com
-
-<sub>Fix the links above before publishing — swap in your real GitHub username and email.</sub>
+- Email: satya.b.9843@gmail.com
