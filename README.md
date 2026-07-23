@@ -32,6 +32,17 @@ open_to_work: true
 
 ---
 
+### 🚀 Featured project
+
+**[devops-cicd-eks-pipeline](https://github.com/SatyaB9843/devops-cicd-eks-pipeline)**
+End-to-end CI/CD pipeline — GitHub Actions builds, tests, and security-scans a
+containerized app, pushes it to Amazon ECR, then deploys it to EKS with a
+zero-downtime rolling update and automatic rollback on failure.
+
+`Docker` `GitHub Actions` `Amazon ECR` `EKS` `Trivy`
+
+---
+
 ### 📫 Reach me
 
 - Portfolio: https://satyab9843.github.io/Portfolio/
